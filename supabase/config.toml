@@ -1,0 +1,4 @@
+# LABAS Private — local Supabase config.
+# Apply supabase/migrations in the SQL editor, or with the Supabase CLI.
+
+project_id = "labas"
